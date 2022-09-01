@@ -17,15 +17,15 @@ global.set = {
     prefix: new RegExp('^[' + (opts['prefix'] || '‎xzXZ/i!#$%+£¢€¥^°=¶∆×÷π√✓©®:;?&.\\-').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']'),
     name: "MyWA BOT",
     version: "1.0.1",
-    dev: "Amirul Dev",
-    desc: "Made by Dikode Team",
+    dev: "Arull",
+    desc: "Made by WhatsApp",
     browser: "firefox",
-    wm: "MyWA BOT By Amirul Dev",
-    pack: `🔥 NADIA BOT • IG: AMIRUL.DEV 🔥`,
+    wm: "MyWA BOT By Arull",
+    pack: `ArullBotz`,
     auth: ``,
     owner: [
-        ['687852104', 'Amirul Dev ࿐', true, 'Founder Dikode 🔥', 'amirul@skyn.tech', 'https://amiruldev.my.id', 'MyWA BOT Developer'],
-        ['6285772679192', 'Nadia Cans ツ', true, 'CS Dikode', 'nadia@dikode-team.com', 'https://nadia.id', 'MyWA BOT Developer']
+        ['6285822347348', 'Arull', true, 'Creator Bot', 'apa', 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe', 'MyWA BOT Developer'],
+        ['6285822347348', 'Arull', true, 'CS', 'haha', 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe', 'MyWA BOT Developer']
     ],
     mods: [],
     prems: [],
